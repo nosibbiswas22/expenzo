@@ -1,5 +1,10 @@
 # Expenzo
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Expenzo-0A7B83?style=for-the-badge)](https://nosibbiswas22.github.io/expenzo/)
+[![License](https://img.shields.io/github/license/nosibbiswas22/expenzo?style=for-the-badge)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/nosibbiswas22/expenzo?style=for-the-badge)](https://github.com/nosibbiswas22/expenzo/stargazers)
+[![Version](https://img.shields.io/github/v/tag/nosibbiswas22/expenzo?label=version&style=for-the-badge)](https://github.com/nosibbiswas22/expenzo/releases/tag/v1.0.0)
+
 > A lightweight, privacy-friendly expense tracker that runs entirely in your browser.
 
 Expenzo helps you record everyday expenses, organize them by category, monitor payment status, and understand spending patterns through clear summaries and charts. Your data stays in your browser by default, with JSON export and import available for backups and migration.
